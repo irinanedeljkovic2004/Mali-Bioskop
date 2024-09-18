@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Mali-Bioskop Home</title>
+        <link>https://irinanedeljkovic2004.github.io/mali-bioskop/index.html</link>
+        <description>Budite prvi koji ce posetiti nas kafic!</description>
+        <item>
+            <title>Meni</title>
+            <link>https://irinanedeljkovic2004.github.io/mali-bioskop/pages/menu-pages/cajevi.html</link>
+            <description>Nas meni</description>
+        </item>
+        <item>
+            <title>O nama</title>
+            <link>https://irinanedeljkovic2004.github.io/mali-bioskop/pages/o-nama.html</link>
+            <description>Nesto vise o nama</description>
+        </item>
+       <item>
+            <title>Autor</title>
+            <link>https://irinanedeljkovic2004.github.io/mali-bioskop/pages/autor.html</link>
+            <description>O autoru</description>
+        </item>
+    </channel>
+</rss>
